@@ -499,6 +499,10 @@ body.dark-theme{
   text-align: center;
 }
 
+.section_title{
+  text-align: center;
+}
+
 /* Hide and show projects & skills */
 .filters [data-content]{
   display: none;
