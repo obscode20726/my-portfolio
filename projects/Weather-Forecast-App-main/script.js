@@ -466,6 +466,12 @@ function changeTimeSpan(unit) {
 
 cities = [
   {
+    country: "RWANDA",
+    name: "Kigali",
+    lat: "1.939662908",
+    lng: "30.055666444",
+  },
+  {
     country: "PK",
     name: "Abbottabad",
     lat: "34.1463",
