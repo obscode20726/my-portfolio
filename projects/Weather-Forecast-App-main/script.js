@@ -63,7 +63,7 @@ setInterval(() => {
 
 // function to get public ip address
 function getPublicIp() {
-  fetch("https://geolocation-db.com/json/", {
+  fetch("https://geolocation-db.com/json/67273a00-5c4b-11ed-9204-d161c2da74ce", {
     method: "GET",
     headers: {},
   })
