@@ -641,18 +641,20 @@ background-color: black;
   }
 
   .profile__border{
-    width: 120px;
-    height: 120px;
-    margin-bottom: 1rem;
+    width: 115px;
+    height: 115px;
+    margin-bottom: 0.75rem;
   }
 
   .profile__perfil{
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
   }
 
   .profile__perfil img{
-    width: 315px;
+    width: 100px;
+    height: auto;
+    max-width: 100%;
   }
 
   .profile__profession{
