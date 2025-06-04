@@ -1,6 +1,6 @@
-# SHEMA Olivier - Full-Stack Web Developer Portfolio
+# SHEMA Olivier - Front-end Web Developer Portfolio
 
-👋 Hello! This is the portfolio of SHEMA Olivier, a passionate Full-Stack Web Developer. This website showcases my skills, projects, and journey in the world of web development.
+👋 Hello! This is the portfolio of SHEMA Olivier, a passionate Front-end Web Developer. This website showcases my skills, projects, and journey in the world of web development.
 
 ## 🌟 Key Features
 
